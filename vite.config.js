@@ -14,5 +14,5 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/Gallery-Project/",
+  base: "/gallery-project/",
 });
